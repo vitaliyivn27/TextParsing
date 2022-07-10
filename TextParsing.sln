@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextParsing", "TextParsing\TextParsing.csproj", "{05A51075-671A-4828-B516-3EB0D9C88BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A51075-671A-4828-B516-3EB0D9C88BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A51075-671A-4828-B516-3EB0D9C88BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A51075-671A-4828-B516-3EB0D9C88BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A51075-671A-4828-B516-3EB0D9C88BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359D92B6-E513-4B6E-9D07-4E4E2EC68D99}
+	EndGlobalSection
+EndGlobal
